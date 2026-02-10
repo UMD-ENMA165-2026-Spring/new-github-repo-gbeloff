@@ -3,5 +3,4 @@ A repository to develop my skills and understanding
 
 :whale:
 
-[!WARNING]
->Under construction. Exercise caution. 
+[!WARNING]>Under construction. Exercise caution. 
